@@ -1,4 +1,4 @@
-# Weather Forecast
+# Weather Forecast API
 
 This is a simple weather forecasting application built using Python and Streamlit. It allows users to view temperature and sky conditions for a selected location over a specified number of days. The app uses data from the OpenWeatherMap API and visualizes the forecast using Plotly for temperature trends or displays relevant weather icons for sky conditions.
 Features
